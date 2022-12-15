@@ -1,0 +1,15 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 26.0-->
+  <ClassId>{576E0D55-2222-4297-928D-E875F87B1997}</ClassId>
+  <ClientId>{576E0D55-2222-4297-928D-E875F87B1997}</ClientId>
+  <DisplayName>RevitImportTool1</DisplayName>
+  <Description>RevitImportTool</Description>
+  <Assembly>C:\Users\40030977\Downloads\InventorAddIn1\InventorAddIn1\RevitImportTool.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>25..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
+

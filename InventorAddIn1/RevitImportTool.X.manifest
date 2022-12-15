@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="RevitImportTool" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{576E0D55-2222-4297-928D-E875F87B1997}" progid="RevitImportTool.StandardAddInServer" threadingModel="Both" name="RevitImportTool.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="RevitImportTool.dll" hashalg="SHA1"></file>
+
+</assembly>
